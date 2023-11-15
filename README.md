@@ -11,6 +11,7 @@ Model info :
 Parameters : 10728268 (10 M)
 
 BigramLanguageModel(
+
   (token_embedding_table): Embedding(76, 384)
   (position_embedding_table): Embedding(76, 384)
   (blocks): Sequential(
